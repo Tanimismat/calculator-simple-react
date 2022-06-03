@@ -52,5 +52,6 @@ body{
 
 .calculator-grid > button:hover,
 .calculator-grid > button:focus{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
 }
